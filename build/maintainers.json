@@ -827,8 +827,7 @@
     "weirongxu"
   ],
   "/bilibili/user/collection/:uid/:sid/:embed?/:sortReverse?/:page?": [
-    "shininome",
-    "cscnk52"
+    "shininome"
   ],
   "/bilibili/user/fav/:uid/:embed?": [
     "DIYgod"
